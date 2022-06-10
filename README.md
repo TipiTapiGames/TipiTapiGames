@@ -1,6 +1,8 @@
 ### Welcome 👋
 I work with Unity and Unreal and am based in Louisiana. I've attended a two-year program for game programming, and towards the end of the second year, started attending game jams.
 
+[Here is my resume](https://resume.creddle.io/resume/capjh56yctc)
+
 How to contact me:
 * [Email](https://judeous@tutanota.com)
 * [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb)
