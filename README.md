@@ -1,15 +1,22 @@
 ### Welcome 👋
-I work with Unity and Unreal and am based in Louisiana. I've attended a two-year program for game programming, and towards the end of the second year, started attending game jams.
+I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for game programming at the [Academy of Interactive Entertainment](https://aie.edu/), and have attended game jams while doing so.
 
-[Here is my resume](https://resume.creddle.io/resume/capjh56yctc)
+[Here is my resume.](https://resume.creddle.io/resume/capjh56yctc)
 
-How to contact me:
-* [Email](https://judeous@tutanota.com)
-* [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb)
+You can contact me through my [Email](https://judeous@tutanota.com) and my [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb).
 
-How to see what I've created:
-* [Itch Page](https://judeous.itch.io/)
-* [My Repositories](https://github.com/Judeous?tab=repositories)
+You can see what I've created through my [Itch Page](https://judeous.itch.io/) and the [Repositories](https://github.com/Judeous?tab=repositories) section of my Github page.
+
+## Projects I've taken part in:
+### [Althea](https://green-production.itch.io/althea)
+My final project at AIE; I was put in a team with three artists and one other programmer, and we were to create a full game. I programmed the Player Movement, the Statue's functionality, the Pickups, the statues' Pickup Counter's functionality, hooked up the Geometry Caches for the flowers' blooming effect, the Particle Effect Implementation, some of the player's animation implementation, the Thorn Barriers between levels, and the Win Screen.
+
+### [A Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
+My final project for my first year at AIE. We were to team up with other artists and programmers from the school to create a game based on classic arcade games. I designed the AI for the enemies. In this game, you play as a ship that's being bombarded by waves of planes, and you are to shoot them down. The enemies have a chance to drop down powerups that temporarily enhance your turret.
+
+### [Lumaze](https://judeous.itch.io/lumaze)
+My first game jam; I worked alongside two artists to, in three days, conceptualize and create a game that fit the theme "Light Attracts Bugs." As I was the only programmer, I created all functionality for the game, in addition to creating collision boxes for the various pieces of the level, and designing the level. In this game, you wander through a maze, stumbling across spots of light. Upon approaching the light, rolling beetles spawn and try to take you down.
+
 
 I look forward to taking part in any future game jams and full games.
 
