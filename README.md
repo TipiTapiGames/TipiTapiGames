@@ -1,7 +1,9 @@
 ### Welcome 👋
 I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for game programming at the [Academy of Interactive Entertainment](https://aie.edu/), and have attended game jams while doing so.
 
-[Here is a link to my resume](https://raw.githubusercontent.com/Judeous/Judeous/master/Resume.pdf)
+[PDF link to my resume](https://raw.githubusercontent.com/Judeous/Judeous/master/Resume.pdf)
+
+[Creddle link for my resume](https://resume.creddle.io/resume/capjh56yctc)
 
 You can contact me through my [Email](mailto:https://judeous@tutanota.com) and my [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb), and you can see some of what I've created through my [Itch Page](https://judeous.itch.io/).
 
