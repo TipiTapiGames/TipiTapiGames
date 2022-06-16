@@ -3,9 +3,7 @@ I've completed projects in both Unity and Unreal, and am based in Louisiana. I'v
 
 [Here is my resume.](https://resume.creddle.io/resume/capjh56yctc)
 
-You can contact me through my [Email](mailto:https://judeous@tutanota.com) and my [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb).
-
-You can see some of what I've created through my [Itch Page](https://judeous.itch.io/) and the [Repositories](https://github.com/Judeous?tab=repositories) section of my Github page.
+You can contact me through my [Email](mailto:https://judeous@tutanota.com) and my [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb), and you can see some of what I've created through my [Itch Page](https://judeous.itch.io/).
 
 ## Projects I've taken part in:
 ### **Althea**
