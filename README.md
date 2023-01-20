@@ -1,5 +1,5 @@
 ### Welcome 👋
-I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for game programming at the [Academy of Interactive Entertainment](https://aie.edu/), and have attended game jams while doing so.
+I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for game programming at the [Academy of Interactive Entertainment](https://aie.edu/), and have attended game jams while doing so. I'm currently in a four year course for Application Software Development.
 
 [PDF link to my resume](https://raw.githubusercontent.com/Judeous/Judeous/master/Resume.pdf)
 
