@@ -1,15 +1,9 @@
 ### Welcome 👋
-I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for game programming at the [Academy of Interactive Entertainment](https://aie.edu/), and have attended game jams while doing so. I'm currently in a four year course for Application Software Development.
-
-[PDF link to my resume](https://raw.githubusercontent.com/Judeous/Judeous/master/Resume.pdf)
-
-[Creddle link for my resume](https://resume.creddle.io/resume/capjh56yctc)
-
-You can contact me through my [Email](mailto:https://judeous@tutanota.com) and my [LinkedIn](https://www.linkedin.com/in/jude-mentel-7682001bb), and you can see some of what I've created through my [Itch Page](https://judeous.itch.io/).
+I've completed projects in both Unity and Unreal, and am based in Louisiana. I've attended a two-year program for Game Programming, and have attended game jams while doing so. I've also taken a four-year course for Application Development.
 
 ## Projects I've taken part in:
 ### **Althea**
-([Repository](https://github.com/Judeous/Althea), [Itch page](https://green-production.itch.io/althea))
+([Repository](https://github.com/TipiTapiGames/Althea), [Itch page](https://green-production.itch.io/althea))
 
 My final project at AIE; I was put in a team with three artists and one other programmer, and we were to create a full game. I programmed the Player Movement, the Statue's functionality, the Pickups, the statues' Pickup Counter's functionality, hooked up the Geometry Caches for the flowers' blooming effect, the Particle Effect Implementation, some of the player's animation implementation, the Thorn Barriers between levels, and the Win Screen.
 
@@ -31,17 +25,3 @@ My first game jam; I worked alongside two artists to, in three days, conceptuali
 
 
 I look forward to taking part in any future game jams and full games.
-
-<!--
-**Judeous/Judeous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on polishing my first year's final project
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
